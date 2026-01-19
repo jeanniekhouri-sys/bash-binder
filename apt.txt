@@ -1,0 +1,11 @@
+curl
+wget
+jq
+git
+shellcheck
+python3-pip
+dnsutils
+iputils-ping
+net-tools
+tcpdump
+nmap
